@@ -1,6 +1,6 @@
 {
   "name": "lodown",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "An npm functional programming library project",
   "main": "index.js",
   "scripts": {
